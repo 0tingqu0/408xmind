@@ -1,0 +1,5 @@
+# Everything except README and .xmind source
+# (408xmind is a xmind map repo, no build artifacts)
+*.swp
+*~
+.DS_Store
